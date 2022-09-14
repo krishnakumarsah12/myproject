@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>781732100812-li7q6kkb0ttfh6j41tf7bj4jikfhv12r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.781732100812-li7q6kkb0ttfh6j41tf7bj4jikfhv12r</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAa40Fd98YMk4zjxXeifuHDGFB2QlUwemc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>781732100812</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>absolutefoods.FirebaseTest2</string>
+	<key>PROJECT_ID</key>
+	<string>fir-test2-632c9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-test2-632c9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:781732100812:ios:2d016393534c825423a069</string>
+</dict>
+</plist>
